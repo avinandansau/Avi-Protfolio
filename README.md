@@ -37,6 +37,5 @@ Publish the repository's static files to a web server. The HTML loads its script
 
 ## Contact
 
-- Email: [avinandansau540@gmail.com](mailto:avinandansau540@gmail.com)
-- WhatsApp: [+91 7679624304](https://wa.me/917679624304)
+
 - Instagram: [@vibes_emotions_04](https://instagram.com/vibes_emotions_04)
